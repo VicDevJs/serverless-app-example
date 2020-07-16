@@ -1,4 +1,4 @@
-# A simple erverless app example
+# A simple serverless app example
 
 Using AWS Lambda, DynamoDB, and API Gateways.
 
@@ -6,7 +6,7 @@ Using AWS Lambda, DynamoDB, and API Gateways.
 First, clone the repo via git and install dependencies:
 
 ```bash
-git clone --depth 1 --single-branch https://github.com/VicDevJs/serverless-app-example.git your-project-name
+git clone https://github.com/VicDevJs/serverless-app-example.git your-project-name
 cd your-project-name
 npm install
 ```
