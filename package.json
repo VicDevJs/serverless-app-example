@@ -5,7 +5,7 @@
   "author": "Victor Nizeyimana",
   "homepage": "https://github.com/VicDevJs/serverless-app-example",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
